@@ -13,7 +13,12 @@ export default {
         'auto': 'auto',
       },
       colors: {
-        'bg-primary': '#212121',
+        'primary-color': '#1B2028',
+        'blue-color': '#495BFF',
+        'primary-text-color': '#EEEBFE',
+        'secondary-text-color': '#8F8D98',
+        'golden-color': '#F3B164',
+        'green-color': '#7AD1B3',
       }
     },
   },
